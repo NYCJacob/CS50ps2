@@ -1,5 +1,5 @@
 # CS50ps2
-Pset2 submission ceasar and vigenere ciphers
 
-###  This was my ps2 submission for CS50.  The implement simple ciphers in C.
+###  If you are taking the CS50 course you do not have permission to use this code.
+###  You are only cheating yourself if you use this code while taking CS50!!!
 
